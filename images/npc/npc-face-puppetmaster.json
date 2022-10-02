@@ -1,0 +1,48 @@
+{"frames": {
+
+"face_0":
+{
+	"frame": {"x":2,"y":2,"w":200,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":196},
+	"sourceSize": {"w":200,"h":196},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"face_1":
+{
+	"frame": {"x":204,"y":2,"w":200,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":196},
+	"sourceSize": {"w":200,"h":196},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"face_2":
+{
+	"frame": {"x":406,"y":2,"w":200,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":196},
+	"sourceSize": {"w":200,"h":196},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"face_3":
+{
+	"frame": {"x":608,"y":2,"w":200,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":196},
+	"sourceSize": {"w":200,"h":196},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "npc-face-puppetmaster.png",
+	"format": "RGBA8888",
+	"size": {"w":810,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7ebff92314b57c2337bc6b7bbe1066c:b1905e6bc85c90f4b15ad0f38e836ac1:ac3193bb206b582113f9b728fa4618f0$"
+}
+}

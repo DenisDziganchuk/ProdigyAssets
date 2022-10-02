@@ -1,0 +1,21 @@
+{"frames": {
+
+"julia":
+{
+	"frame": {"x":2,"y":2,"w":64,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":114},
+	"sourceSize": {"w":64,"h":114},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "npc-sprite-julia_ghoulia.png",
+	"format": "RGBA8888",
+	"size": {"w":68,"h":118},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f96a620c64f6b588b09a73cbf4fcc1ac:b3216637abadabb1918a35471b334a32:9b9bfdab794c041f2b32d4f93cb0fd5b$"
+}
+}

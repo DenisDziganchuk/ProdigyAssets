@@ -1,0 +1,111 @@
+{"frames": {
+
+"arm-0":
+{
+	"frame": {"x":204,"y":96,"w":26,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":18},
+	"sourceSize": {"w":26,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"arm-1":
+{
+	"frame": {"x":232,"y":96,"w":26,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":18},
+	"sourceSize": {"w":26,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"arm-2":
+{
+	"frame": {"x":260,"y":96,"w":26,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":18},
+	"sourceSize": {"w":26,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"armL":
+{
+	"frame": {"x":296,"y":64,"w":42,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":32},
+	"sourceSize": {"w":42,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"balloons":
+{
+	"frame": {"x":92,"y":2,"w":152,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":92},
+	"sourceSize": {"w":152,"h":92},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"donk-bod":
+{
+	"frame": {"x":2,"y":2,"w":88,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":108},
+	"sourceSize": {"w":88,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"donk-head":
+{
+	"frame": {"x":246,"y":2,"w":48,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":92},
+	"sourceSize": {"w":48,"h":92},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"donk-legs":
+{
+	"frame": {"x":166,"y":96,"w":36,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":20},
+	"sourceSize": {"w":36,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"head":
+{
+	"frame": {"x":296,"y":2,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"legs":
+{
+	"frame": {"x":126,"y":96,"w":38,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":22},
+	"sourceSize": {"w":38,"h":22},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"torso":
+{
+	"frame": {"x":92,"y":96,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "npc-sprite-toy.png",
+	"format": "RGBA8888",
+	"size": {"w":358,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0cc5fe60f991da2cdecf992b1b5ade6d:4bcb483561e0570822f9a25ce40f3452:634b54836a77eb544a16b358cc1609e0$"
+}
+}
